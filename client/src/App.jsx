@@ -1,6 +1,8 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Register from "./pages/register";
 import Login from "./pages/login";
+import Dashboard from "./pages/Dashboard";
+import Customize from "./pages/Customize";
+
 
 import Dashboard from "./pages/Dashboard";
 
