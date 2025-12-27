@@ -1,4 +1,4 @@
-import "./dashboard.css";
+import "./Dashboard.css";
 
 const pizzas = [
   { id: 1, name: "Margherita", price: 199 },
