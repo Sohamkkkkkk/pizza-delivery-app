@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(135deg, #ff4d4d, #ffcc70);
+  min-height: 100vh;
+}
