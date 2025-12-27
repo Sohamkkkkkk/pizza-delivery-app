@@ -1,7 +1,7 @@
-import Register from "./pages/register";
-import Login from "./pages/login";
-import Dashboard from "./pages/Dashboard";
-import Customize from "./pages/Customize";
+import Register from "./pages/register.jsx";
+import Login from "./pages/login.jsx";
+import Dashboard from "./pages/Dashboard.jsx";
+import Customize from "./pages/Customize.jsx";
 
 
 import Dashboard from "./pages/Dashboard";
